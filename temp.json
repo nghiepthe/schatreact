@@ -1,0 +1,217 @@
+[
+    {
+        "_tags": {
+            "state": "request-sent",
+            "threadId": "1df8bcae-885f-4fe7-93bc-6c6458c9a689",
+            "connectionId": "260eb3c9-94cc-44c6-bad8-5388281009a1"
+        },
+        "metadata": {
+            "_internal/indyRequest": {
+                "master_secret_blinding_data": {
+                    "v_prime": "19070853531693073564317061812262937668882048789823055546985193164487302852824260166150361058353550253510857815097983830253182610942010370056977171990648481077417692102248208896634206299034717872604961127290237104538962798390026729711403733180596893940084955287103433611983205237364358077859870234086312729270577431287700503283108697492020439612655211196080047631489955705229177877453341586996512741946457308379972388029139166022603169020773986649883229108514314379615943221427951665559208140294927736380750499502361740965974506057376867395853490735720106936381976142858818884117475261487121874454382781830621708279496419132093917840608806881",
+                    "vr_prime": null
+                },
+                "nonce": "613139222182705702977753",
+                "master_secret_name": "schat-wallet-640"
+            },
+            "_internal/indyCredential": {
+                "credentialDefinitionId": "PLEVLDPJQMJvPLyX3LgB6S:3:CL:11:default",
+                "schemaId": "PLEVLDPJQMJvPLyX3LgB6S:2:Identity:216.0"
+            }
+        },
+        "credentials": [
+            {
+                "credentialRecordType": "indy",
+                "credentialRecordId": "1d7800b2-65e1-4442-a9e3-7ac240a38728"
+            }
+        ],
+        "id": "4849c976-fcd5-4dbc-b46b-f3373d17c9b4",
+        "createdAt": "2022-11-15T10:00:44.333Z",
+        "state": "done",
+        "connectionId": "260eb3c9-94cc-44c6-bad8-5388281009a1",
+        "threadId": "1df8bcae-885f-4fe7-93bc-6c6458c9a689",
+        "protocolVersion": "v1",
+        "credentialAttributes": [
+            {
+                "mime-type": "text/plain",
+                "name": "id",
+                "value": "ADMIN00112"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "name",
+                "value": "Nghiệp Thế"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "role",
+                "value": "Admin"
+            }
+        ]
+    },
+    {
+        "_tags": {
+            "connectionId": "2f57afc0-0262-44c4-9884-8abd49869def",
+            "threadId": "cd9b4447-dd20-4858-a738-07b24b5d1519",
+            "state": "request-sent"
+        },
+        "metadata": {
+            "_internal/indyRequest": {
+                "master_secret_blinding_data": {
+                    "v_prime": "24268355952833137010675840099715236851286301778667866328519970667204454307502959714974187600577763576608961607549215557279248011527251333573386549030079415936234709304111897697786441928126814915406629300371253526194564612195842273031200637203930125072640130086090276747385867745082462057844303562035322385946511290229411226264824781607198260426728640020575467435798497694816878389829120745443098099116163272858820801160229906961032517609820256703310724684422328555982954609081049680990758783621443452553474254767768466124735054759336283922415612872152834529904995507512302109024621310439420885620119989003381294103781512299628177611253679762",
+                    "vr_prime": null
+                },
+                "nonce": "1149074340837257927719634",
+                "master_secret_name": "schat-wallet-640"
+            },
+            "_internal/indyCredential": {
+                "credentialDefinitionId": "PLEVLDPJQMJvPLyX3LgB6S:3:CL:11:default",
+                "schemaId": "PLEVLDPJQMJvPLyX3LgB6S:2:Identity:216.0"
+            }
+        },
+        "credentials": [
+            {
+                "credentialRecordType": "indy",
+                "credentialRecordId": "4e3cca00-2dd9-46e2-afe8-a0c64ea6863f"
+            }
+        ],
+        "id": "c11eafbe-7b51-406a-9287-c9249315da9e",
+        "createdAt": "2022-11-15T10:01:30.835Z",
+        "state": "done",
+        "connectionId": "2f57afc0-0262-44c4-9884-8abd49869def",
+        "threadId": "cd9b4447-dd20-4858-a738-07b24b5d1519",
+        "protocolVersion": "v1",
+        "credentialAttributes": [
+            {
+                "mime-type": "text/plain",
+                "name": "id",
+                "value": "ADMIN0022222"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "name",
+                "value": "Hiệp Thế"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "role",
+                "value": "Admin"
+            }
+        ]
+    },
+    {
+        "_tags": {
+            "threadId": "59a6a841-6450-45c1-abfe-e4ed141409f3",
+            "state": "request-sent",
+            "connectionId": "41d5a6a4-7ca0-415a-8509-6aa0439904d8"
+        },
+        "metadata": {
+            "_internal/indyRequest": {
+                "master_secret_blinding_data": {
+                    "v_prime": "5020400403635424104389302809386531644924520482215529612492256761672180662415933619359591398318141272191943112600801680448058716756752221374505909344204412892791474012139889027034671549197846078713468627976918732318047472049361318662693965664826469039143142338989519405585717208462550708237912530600746644587966167935619769612686658075624781342910890438555373868292313582100007729147077183327806699266596196938804831817075454117386384811952176826180481184565826691056802017964469325172048328119955014844659714807827202239426506916184561832411793147230229727402278778363079780478325656488952775564467957406414702325608071360967659373424066492",
+                    "vr_prime": null
+                },
+                "nonce": "928711099561977399747566",
+                "master_secret_name": "schat-wallet-640"
+            },
+            "_internal/indyCredential": {
+                "credentialDefinitionId": "PLEVLDPJQMJvPLyX3LgB6S:3:CL:11:default",
+                "schemaId": "PLEVLDPJQMJvPLyX3LgB6S:2:Identity:216.0"
+            }
+        },
+        "credentials": [
+            {
+                "credentialRecordType": "indy",
+                "credentialRecordId": "d703afac-99e0-4c6b-ac8d-510d0406240c"
+            }
+        ],
+        "id": "a2f08dce-6d9a-43b8-a2ec-7fe571878342",
+        "createdAt": "2022-11-15T10:02:13.274Z",
+        "state": "done",
+        "connectionId": "41d5a6a4-7ca0-415a-8509-6aa0439904d8",
+        "threadId": "59a6a841-6450-45c1-abfe-e4ed141409f3",
+        "protocolVersion": "v1",
+        "credentialAttributes": [
+            {
+                "mime-type": "text/plain",
+                "name": "id",
+                "value": "ADMIN0022222"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "name",
+                "value": "Hiệp Thế"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "role",
+                "value": "Admin"
+            }
+        ]
+    },
+    {
+        "_tags": {
+            "state": "request-sent",
+            "threadId": "a03a005a-fb72-4126-b5e6-8ef3ccd13c2e",
+            "connectionId": "9f884db8-40e7-40c5-ac87-80f81ed81b50"
+        },
+        "metadata": {
+            "_internal/indyRequest": {
+                "master_secret_blinding_data": {
+                    "v_prime": "833568804728529451415158193824590323927393669965283856269012929005655013375066929311262085123202856612012618216999443287564923771766931800437496828835268890539938311827166496649790459111084044589489221417591609178022050823990226897139993225124835641546743992513516139059746972892310235164231893610659295888780028679876621082746645939676214303652625908881815761638537290489398769917125661939619888717589726541914117679694496393678633821797213905615893548679848026010979844696516695567375606434435464763527837007287051479494162964549972853594082971170553317366948825572482225518996496877715333107946209581205199761718427367897732182272460264",
+                    "vr_prime": null
+                },
+                "nonce": "666192330279032482140640",
+                "master_secret_name": "schat-wallet-640"
+            },
+            "_internal/indyCredential": {
+                "credentialDefinitionId": "PLEVLDPJQMJvPLyX3LgB6S:3:CL:11:default",
+                "schemaId": "PLEVLDPJQMJvPLyX3LgB6S:2:Identity:216.0"
+            }
+        },
+        "credentials": [
+            {
+                "credentialRecordType": "indy",
+                "credentialRecordId": "46a44ebc-bebb-4463-a056-cc97aa1292f5"
+            }
+        ],
+        "id": "d080db65-0cc0-4b23-8fb3-2f60b71109b8",
+        "createdAt": "2022-11-15T10:02:46.290Z",
+        "state": "done",
+        "connectionId": "9f884db8-40e7-40c5-ac87-80f81ed81b50",
+        "threadId": "a03a005a-fb72-4126-b5e6-8ef3ccd13c2e",
+        "protocolVersion": "v1",
+        "credentialAttributes": [
+            {
+                "mime-type": "text/plain",
+                "name": "id",
+                "value": "ADMIN0022222"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "name",
+                "value": "Hiệp Thế"
+            },
+            {
+                "mime-type": "text/plain",
+                "name": "role",
+                "value": "Admin"
+            }
+        ]
+    }
+]
+
+{
+    "_internal/indyRequest": {
+        "master_secret_blinding_data": {
+            "v_prime": "19070853531693073564317061812262937668882048789823055546985193164487302852824260166150361058353550253510857815097983830253182610942010370056977171990648481077417692102248208896634206299034717872604961127290237104538962798390026729711403733180596893940084955287103433611983205237364358077859870234086312729270577431287700503283108697492020439612655211196080047631489955705229177877453341586996512741946457308379972388029139166022603169020773986649883229108514314379615943221427951665559208140294927736380750499502361740965974506057376867395853490735720106936381976142858818884117475261487121874454382781830621708279496419132093917840608806881",
+            "vr_prime": null
+        },
+        "nonce": "613139222182705702977753",
+        "master_secret_name": "schat-wallet-640"
+    },
+    "_internal/indyCredential": {
+        "credentialDefinitionId": "PLEVLDPJQMJvPLyX3LgB6S:3:CL:11:default",
+        "schemaId": "PLEVLDPJQMJvPLyX3LgB6S:2:Identity:216.0"
+    }
+}
